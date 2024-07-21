@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hello there! I am a freshman majoring in Mathematics with a concentration in Probability and Statistics at the University of Science and Technology of China (USTC). I am passionate about mathematics and data analysis, aiming to learn and contribute within the open-source community.
+
 <!--
 **jnzh4ng/jnzh4ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
